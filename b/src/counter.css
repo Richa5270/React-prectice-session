@@ -1,0 +1,18 @@
+.count-component{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #fa0606;
+}
+.count-component button{
+    margin:16px;
+}
+.count-component p{
+    font-size: 24px;
+}
+.count-type span{
+    padding: 5px;
+    font-size: 16px;
+    background-color: black;
+    color: #eee;
+    margin: 20px;
+}
